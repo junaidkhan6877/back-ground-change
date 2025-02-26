@@ -11,6 +11,7 @@ const BgChanged = () => {
       <h1>BG  Color Changed</h1>
       <button  onClick={rendeamColor}>BG Color changed</button>
       <button type="button">bilal ansar</button>
+      <button type="button">ali</button>
     </div>
   )
 }
