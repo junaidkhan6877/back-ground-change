@@ -10,6 +10,7 @@ const BgChanged = () => {
     <div style={{backgroundColor:bgColor, height:"100vh"}}>
       <h1>BG  Color Changed</h1>
       <button  onClick={rendeamColor}>BG Color changed</button>
+      <button type="button">bilal ansar</button>
     </div>
   )
 }
